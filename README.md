@@ -1,6 +1,6 @@
 # Exercicios-em-C-Sharp
 
-Exercícios utilizando funções
+Exercícios utilizando alguns métodos, vetores e matrizes do C#
 
 
 Exercício A
@@ -26,3 +26,7 @@ Faça um programa em C#, utilizando métodos, que leia Nome, RGM e as notas (P1 
 Exercício F
 
 Elaborar um programa em C#, utilizando métodos,para ler um vetor de números reais de 10 posições, em seguida, criar um novo vetor com as seguintes características: se o índice for par, multiplicar o elemento por 5, caso contrário, somar 5 ao elemento.
+
+Exercício G
+
+Elabore um programa que entre com os valores de uma matriz matA de dimensões(nl x nc) e leia um valor K (inteiro), em seguida, calcule e exiba os valores de MatB = K * MatA.
