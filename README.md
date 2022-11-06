@@ -30,3 +30,7 @@ Elaborar um programa em C#, utilizando métodos,para ler um vetor de números re
 Exercício G
 
 Elabore um programa que entre com os valores de uma matriz matA de dimensões(nl x nc) e leia um valor K (inteiro), em seguida, calcule e exiba os valores de MatB = K * MatA.
+
+Exercício H
+
+Princípio de um CRUD
